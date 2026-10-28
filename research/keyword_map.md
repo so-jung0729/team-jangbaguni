@@ -13,6 +13,13 @@
 | 대구북부농수산물도매시장 | industry_food | 시장 | industry_food/1027_project_ideas_note.md (5, 2022년 1조 1천억·전국 3위) | https://kbmaeil.com/article/202305070361471 |
 | 도매시장 시세 | industry_food | 도매유통 | industry_food/1027_project_ideas_note.md (5) | https://www.data.go.kr/data/15140583/openapi.do |
 | 떡볶이 재료 | industry_food | 특산물·음식 | industry_food/1027_project_ideas_note.md (5, 대파·양배추·고춧가루) | |
+| 대구농수산물도매시장 하빈면 이전 | industry_food | 시장 | industry_food/1028_wholesale_price_forecast_note.md (2032년 목표) | https://www.khan.co.kr/article/202511271443011/ |
+| 대구농수산물유통관리공사 | industry_food | 도매유통 | industry_food/1028_wholesale_price_forecast_note.md (온라인도매시장 물류센터) | https://v.daum.net/v/20260715181924386 |
+| 실시간 경매정보 API | industry_food | 도매유통 | industry_food/1028_wholesale_price_forecast_note.md | https://www.data.go.kr/data/15141808/openapi.do |
+| 채소 가격 변동성 | industry_food | 도매유통 | industry_food/1028_wholesale_price_forecast_note.md (대파·양배추) | https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300099.html |
+| 외식업 식재료비 비중 | industry_food | 소비 데이터 | industry_food/1028_wholesale_price_forecast_note.md (2024년 40.7%) | https://kbmaeil.com/article/20260914500021 |
+| 식봄 | industry_food | 도매유통 | industry_food/1028_wholesale_price_forecast_note.md (유사 서비스, CJ프레시웨이 자회사) | https://sateconomy.co.kr/news/view/1065587102104584 |
+| 대구 떡볶이 페스티벌 | history_culture | 축제·민속 | industry_food/1028_wholesale_price_forecast_note.md (2025년 33만 명) | https://www.inews24.com/view/2016442 |
 | 라스트마일 배송 난이도 | industry_food | 물류 | industry_food/1027_project_ideas_note.md (6, CJ대한통운 택배·O-NE) | |
 | 공유 거점·보관함 입지 | industry_food | 물류 | industry_food/1027_project_ideas_note.md (6) | |
 | 주차 민원·노상 주차면 | place_tour | 교통·안전 | industry_food/1027_project_ideas_note.md (6) | |
